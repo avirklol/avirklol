@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avirklol
+- 👋 Hi, I’m Annand (or @avirklol).
 - 👀 I’m interested in app development, electronics and all things transhumanism.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on anything fun.

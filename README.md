@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Annand (or @avirklol).
 - 👀 I’m interested in app development, electronics and all things transhumanism.
 - 🤓 Fresh data science boy.
-- 💞️ I’m looking to collaborate on anything fun.
+- 🤝 I’m looking to collaborate on anything fun.
 - 📫 How to reach me: annandvirk@gmail.com
 
 <!---

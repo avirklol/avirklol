@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Annand (or @avirklol).
 - 👀 I’m interested in app development, electronics and all things transhumanism.
-- 🤓 Fresh dev.
+- 🤓 Fresh dev, focused on AI systems design and game development.
+- 👾 Godot enthusiast.
 - 🤝 I’m looking to collaborate on anything fun.
 - 📫 How to reach me: annandvirk@gmail.com
 
